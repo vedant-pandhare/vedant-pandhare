@@ -58,6 +58,12 @@ Pune University
 
 - GitHub: [@vedant-pandhare](https://github.com/vedant-pandhare)
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedant-pandhare&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-pandhare&layout=compact&theme=tokyonight)
+
 ---
 
 ⭐ Thank you for visiting my GitHub profile!
