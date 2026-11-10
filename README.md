@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Pandhare Vedant Sandeep 👋
 
-<!--
-**vedant-pandhare/vedant-pandhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Python | SQL | Power BI | Advanced Excel
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a B.Sc. Computer Science graduate from Marathwada Mitramandal College of Commerce, Pune University. I am passionate about Data Analytics and enjoy working with data to discover insights and support business decisions.
+
+## 👨‍💻 About Me
+
+- 🎓 B.Sc. Computer Science Graduate
+- 📍 Pune, Maharashtra, India
+- 📊 Interested in Data Analytics and Business Intelligence
+- 🌱 Currently improving my skills in Python, SQL and Power BI
+- 🎯 Looking for an opportunity as a Data Analyst
+
+## 🛠️ Technical Skills
+
+- **Programming:** Python
+- **Database:** SQL, MySQL
+- **Data Visualization:** Power BI
+- **Microsoft Tools:** Advanced Excel
+- **Other Skills:** Data Analysis, Dashboard Development, Data Visualization
+
+## 📂 My Projects
+
+### 1. Excel Dashboard Project
+
+- Created an interactive Excel dashboard.
+- Used Pivot Tables, Charts and Slicers.
+- Analyzed data to generate meaningful insights.
+
+**Tools:** Microsoft Excel, Power Query, Pivot Tables
+
+[View Excel Project](https://github.com/vedant-pandhare/Excel-Dashboard-Project)
+
+### 2. Power BI Real Estate Analytics Dashboard
+
+- Developed a Real Estate Analytics Dashboard.
+- Created multiple report pages.
+- Presented real estate data through interactive visualizations.
+
+**Tools:** Power BI, DAX, Power Query
+
+[View Power BI Project](https://github.com/vedant-pandhare/Power-BI-Real-Estate-Analytics)
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science**
+
+Marathwada Mitramandal College of Commerce  
+Pune University
+
+## 📚 Training
+
+**Data Science Training — Speedup Infotech**
+
+## 📫 Connect With Me
+
+- GitHub: [@vedant-pandhare](https://github.com/vedant-pandhare)
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
