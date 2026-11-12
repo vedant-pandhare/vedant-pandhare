@@ -53,9 +53,11 @@ Pune University
 
 **Data Science Training — Speedup Infotech**
 
-## 📫 Connect With Me
+## Connect with Me
 
-- GitHub: [@vedant-pandhare](https://github.com/vedant-pandhare)
+- **LinkedIn:** [Vedant Pandhare](https://www.linkedin.com/in/vedant-pandhare-508187375/)
+- **GitHub:** [vedant-pandhare](https://github.com/vedant-pandhare)
+
 
 --
 
