@@ -41,6 +41,13 @@ I am a B.Sc. Computer Science graduate from Marathwada Mitramandal College of Co
 
 **Tools:** Power BI, DAX, Power Query
 
+### 3. 🎬 RSVP Movies – SQL Data Analysis
+- **Tools:** MySQL, SQL
+- Analyzed IMDb movie data to identify movie trends, ratings, genres, and production performance.
+- Used Joins, Subqueries, Aggregate Functions, and Window Functions.
+- Solved 29 business questions using SQL.
+- [View Project](https://github.com/vedant-pandhare/RSVP-Movies-SQL-Case-Study)
+
 [View Power BI Project](https://github.com/vedant-pandhare/Power-BI-Real-Estate-Analytics)
 
 ## 🎓 Education
