@@ -40,6 +40,7 @@ I am a B.Sc. Computer Science graduate from Marathwada Mitramandal College of Co
 - Presented real estate data through interactive visualizations.
 
 **Tools:** Power BI, DAX, Power Query
+[View Power BI Project](https://github.com/vedant-pandhare/Power-BI-Real-Estate-Analytics)
 
 ### 3. 🎬 RSVP Movies – SQL Data Analysis
 - **Tools:** MySQL, SQL
@@ -47,8 +48,6 @@ I am a B.Sc. Computer Science graduate from Marathwada Mitramandal College of Co
 - Used Joins, Subqueries, Aggregate Functions, and Window Functions.
 - Solved 29 business questions using SQL.
 - [View Project](https://github.com/vedant-pandhare/RSVP-Movies-SQL-Case-Study)
-
-[View Power BI Project](https://github.com/vedant-pandhare/Power-BI-Real-Estate-Analytics)
 
 ## 🎓 Education
 
